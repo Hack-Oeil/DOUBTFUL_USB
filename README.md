@@ -8,7 +8,7 @@ il vous demande de trouver des informations sur ce fichier.
 
 
 # Format du Flag
-Le flag est l'adresse IP du pirate
+Le flag est l'adresse IP de l'attaquant
 
 
 ## Aperçu
