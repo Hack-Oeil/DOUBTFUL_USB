@@ -3,7 +3,7 @@
 ## Présentation du CTF 
 **ID** 40 dans **les CTFs de Cyrhades**
 
-Notre administrateur à trouver une clef USB contenant un fichier "inject.bin", 
+Notre administrateur à trouver une clef USB contenant un fichier "./files/inject.bin", 
 il vous demande de trouver des informations sur ce fichier.
 
 
@@ -12,7 +12,7 @@ Le flag est l'adresse IP de l'attaquant
 
 
 ## Aperçu
-[inject.bin](inject.bin)
+[./files/inject.bin](./files/inject.bin)
 
 
 
